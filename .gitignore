@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+# Virtual environments
+.venv/
+venv/
+env/
+# Environment variables
+.env
+.env.*
+# Node
+node_modules/
+dist/
+build/
+# IDE
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+# Test/cache
+.pytest_cache/
+.coverage
+# Temporary files
+*.tmp
+*.temp
